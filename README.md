@@ -1,1 +1,1 @@
-# shuubuninryaku
+# 聚分韻略データ
